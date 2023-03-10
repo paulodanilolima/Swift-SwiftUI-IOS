@@ -1,9 +1,12 @@
-![Thumbnail GitHub]([https://user-images.githubusercontent.com/8989346/123294187-ff901300-d4ea-11eb-963c-ac1561afac6f.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdeveloper.apple.com%2Fxcode%2F&psig=AOvVaw1EfBixMl27gAmZ4vxabTAU&ust=1678511872603000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLihuJHO0P0CFQAAAAAdAAAAABAD))
+![Thumbnail GitHub](https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png)
+
+![](https://img.shields.io/badge/IOS-Swift-blue)
+![](https://img.shields.io/badge/IOS-SwiftUI-red)
 
 
-![Badge Swift](http://img.shields.io/static/v1?label=STATUS&message=EM%20Swift&color=BLUE&style=for-the-badge)
-![Badge SwiftUI](http://img.shields.io/static/v1?label=STATUS&message=EM%20SwiftUI&color=RED&style=for-the-badge)
-![Badge IOS](http://img.shields.io/static/v1?label=STATUS&message=EM%20IOS&color=GREEN&style=for-the-badge)
+## ✔️ Técnicas e tecnologias utilizadas
 
+As técnicas e tecnologias utilizadas nestes projetos são:
 
-Pasta com todos os projetos IOS em Swift e SwiftUI
+- `Swift`
+- `SwiftUI`
