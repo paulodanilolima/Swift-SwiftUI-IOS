@@ -1,4 +1,4 @@
-[Título e Imagem de capa](#[Título-e-Imagem-de-capa](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdeveloper.apple.com%2Fxcode%2F&psig=AOvVaw1EfBixMl27gAmZ4vxabTAU&ust=1678511872603000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLihuJHO0P0CFQAAAAAdAAAAABAD))
+[<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/paulodanilolima)
 
 
 ![Badge Swift](http://img.shields.io/static/v1?label=STATUS&message=EM%20Swift&color=BLUE&style=for-the-badge)
