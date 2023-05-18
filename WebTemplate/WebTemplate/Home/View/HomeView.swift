@@ -7,11 +7,11 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct HomeView: View {
     
     @State private var username: String = ""
     @State private var password: String = ""
-    var viewModel = HomeViewModel()
+    var viewModel: HomeViewModel!
     
     init(viewModel: HomeViewModel) {
         self.viewModel = viewModel
@@ -53,7 +53,7 @@ struct ContentView: View {
                                     .cornerRadius(15)
                                 
                                 Button(action: {
-                                    viewModel.sayHi()
+                                    viewModel.goToFirst()
                                 }, label: {
                                     Text("LOG IN")
                                         .foregroundColor(.white)
@@ -64,7 +64,7 @@ struct ContentView: View {
                                 })
                                 
                                 Button(action: {
-                                    viewModel.dontForget()
+                                    viewModel.fetchData()
                                 }, label: {
                                     Text("Forgot Password?")
                                         .foregroundColor(Color.blue)
@@ -79,7 +79,7 @@ struct ContentView: View {
                                     Text("New to Bank Apps?")
                                     
                                     Button(action: {
-                                        viewModel.singUP()
+                                        viewModel.fetchData()
                                     }, label: {
                                         Text("Sign Up")
                                             .foregroundColor(Color.blue)
@@ -92,11 +92,5 @@ struct ContentView: View {
                 }
             }
         }
-    }
-}
-
-struct ContentView_Previews: PreviewProvider {
-    static var previews: some View {
-        ContentView(viewModel: HomeViewModel.shared)
     }
 }

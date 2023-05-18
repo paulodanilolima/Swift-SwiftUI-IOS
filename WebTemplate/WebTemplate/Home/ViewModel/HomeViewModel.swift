@@ -7,24 +7,26 @@
 
 import Foundation
 
-class HomeViewModel {
+protocol HomeCoordinadorDelegate {
+    func goToFirst()
+}
+
+
+class HomeViewModel: ObservableObject {
+    // Add necessary properties and methods
     
-    public static var shared = HomeViewModel()
+    var coordinatorDelegate: HomeCoordinadorDelegate!
+    var service: WebTemplateService
     
-    init() {
-        
+    init(service: WebTemplateService) {
+        self.service = service
     }
     
-    func sayHi() {
-        print("Essa é a viewModel")
+    func fetchData() {
+        print("Hi")
     }
     
-    func dontForget() {
-        print("Esqueci a senha")
+    func goToFirst() {
+        coordinatorDelegate.goToFirst()
     }
-    
-    func singUP() {
-        print("Vamos criar login e senha")
-    }
-    
 }

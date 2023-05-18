@@ -9,9 +9,16 @@ import SwiftUI
 
 @main
 struct WebTemplateApp: App {
+    @StateObject private var homeViewModel = HomeViewModel(service: WebTemplateService.shared)
+    @StateObject private var homeCoordinator = HomeCoordinator()
+
     var body: some Scene {
         WindowGroup {
-            ContentView(viewModel: HomeViewModel.shared)
+            HomeView(viewModel: homeViewModel)
+                .environmentObject(homeCoordinator)
+                .onAppear {
+                    homeCoordinator.start(service: WebTemplateService.shared, viewModel: homeViewModel)
+                }
         }
     }
 }
