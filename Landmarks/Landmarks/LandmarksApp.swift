@@ -13,11 +13,8 @@ struct LandmarksApp: App {
     
     var body: some Scene {
         WindowGroup {
-            VStack {
-                HikeView(hike: ModelData().hikes[0])
-                    .padding()
-                Spacer()
-            }
+            ContentView()
+                .environmentObject(modelData)
         }
     }
 }
