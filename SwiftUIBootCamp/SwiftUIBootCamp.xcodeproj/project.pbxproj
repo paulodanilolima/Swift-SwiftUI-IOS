@@ -13,6 +13,7 @@
 		B247CEFD2A1EE774005230BC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B247CEFC2A1EE774005230BC /* Preview Assets.xcassets */; };
 		B247CF042A1EEC90005230BC /* TextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B247CF032A1EEC8F005230BC /* TextBootcamp.swift */; };
 		B247CF062A1EFCF0005230BC /* ShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B247CF052A1EFCF0005230BC /* ShapesBootcamp.swift */; };
+		B247CF092A1F1118005230BC /* ColorsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B247CF082A1F1118005230BC /* ColorsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		B247CEFC2A1EE774005230BC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B247CF032A1EEC8F005230BC /* TextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootcamp.swift; sourceTree = "<group>"; };
 		B247CF052A1EFCF0005230BC /* ShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootcamp.swift; sourceTree = "<group>"; };
+		B247CF082A1F1118005230BC /* ColorsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 				B247CEF72A1EE770005230BC /* ContentView.swift */,
 				B247CF032A1EEC8F005230BC /* TextBootcamp.swift */,
 				B247CF052A1EFCF0005230BC /* ShapesBootcamp.swift */,
+				B247CF082A1F1118005230BC /* ColorsBootcamp.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B247CF092A1F1118005230BC /* ColorsBootcamp.swift in Sources */,
 				B247CF062A1EFCF0005230BC /* ShapesBootcamp.swift in Sources */,
 				B247CEF82A1EE770005230BC /* ContentView.swift in Sources */,
 				B247CF042A1EEC90005230BC /* TextBootcamp.swift in Sources */,
