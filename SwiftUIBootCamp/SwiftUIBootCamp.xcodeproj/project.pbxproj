@@ -18,6 +18,7 @@
 		B25C13C72A20659800310F85 /* iconsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B25C13C62A20659800310F85 /* iconsBootcamp.swift */; };
 		B25C13C92A206DC500310F85 /* ImagesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B25C13C82A206DC500310F85 /* ImagesBootcamp.swift */; };
 		B25C13CB2A21339600310F85 /* FrameBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B25C13CA2A21339600310F85 /* FrameBootcamp.swift */; };
+		B25C13CD2A213A5600310F85 /* BackGorungAndOverlayBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B25C13CC2A213A5600310F85 /* BackGorungAndOverlayBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		B25C13C62A20659800310F85 /* iconsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iconsBootcamp.swift; sourceTree = "<group>"; };
 		B25C13C82A206DC500310F85 /* ImagesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagesBootcamp.swift; sourceTree = "<group>"; };
 		B25C13CA2A21339600310F85 /* FrameBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootcamp.swift; sourceTree = "<group>"; };
+		B25C13CC2A213A5600310F85 /* BackGorungAndOverlayBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackGorungAndOverlayBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +94,7 @@
 				B25C13C62A20659800310F85 /* iconsBootcamp.swift */,
 				B25C13C82A206DC500310F85 /* ImagesBootcamp.swift */,
 				B25C13CA2A21339600310F85 /* FrameBootcamp.swift */,
+				B25C13CC2A213A5600310F85 /* BackGorungAndOverlayBootcamp.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -174,6 +177,7 @@
 				B247CEF82A1EE770005230BC /* ContentView.swift in Sources */,
 				B25C13C72A20659800310F85 /* iconsBootcamp.swift in Sources */,
 				B247CF042A1EEC90005230BC /* TextBootcamp.swift in Sources */,
+				B25C13CD2A213A5600310F85 /* BackGorungAndOverlayBootcamp.swift in Sources */,
 				B247CEF62A1EE770005230BC /* SwiftUIBootCampApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
