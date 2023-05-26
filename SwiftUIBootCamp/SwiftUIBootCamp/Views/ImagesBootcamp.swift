@@ -13,7 +13,7 @@ struct ImagesBootcamp: View {
 //            .renderingMode(.template)
             .resizable()
             .frame(width: 300, height: 300)
-            .foregroundColor(.red)
+//            .foregroundColor(.red)
 //            .aspectRatio(contentMode: .fit)
             .scaledToFit()
 //            .scaledToFill()

@@ -17,6 +17,7 @@
 		B25C13C52A205BC300310F85 /* GradientsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B25C13C42A205BC300310F85 /* GradientsBootcamp.swift */; };
 		B25C13C72A20659800310F85 /* iconsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B25C13C62A20659800310F85 /* iconsBootcamp.swift */; };
 		B25C13C92A206DC500310F85 /* ImagesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B25C13C82A206DC500310F85 /* ImagesBootcamp.swift */; };
+		B25C13CB2A21339600310F85 /* FrameBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B25C13CA2A21339600310F85 /* FrameBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		B25C13C42A205BC300310F85 /* GradientsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientsBootcamp.swift; sourceTree = "<group>"; };
 		B25C13C62A20659800310F85 /* iconsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iconsBootcamp.swift; sourceTree = "<group>"; };
 		B25C13C82A206DC500310F85 /* ImagesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagesBootcamp.swift; sourceTree = "<group>"; };
+		B25C13CA2A21339600310F85 /* FrameBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +91,7 @@
 				B25C13C42A205BC300310F85 /* GradientsBootcamp.swift */,
 				B25C13C62A20659800310F85 /* iconsBootcamp.swift */,
 				B25C13C82A206DC500310F85 /* ImagesBootcamp.swift */,
+				B25C13CA2A21339600310F85 /* FrameBootcamp.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -165,6 +168,7 @@
 			files = (
 				B25C13C52A205BC300310F85 /* GradientsBootcamp.swift in Sources */,
 				B247CF092A1F1118005230BC /* ColorsBootcamp.swift in Sources */,
+				B25C13CB2A21339600310F85 /* FrameBootcamp.swift in Sources */,
 				B25C13C92A206DC500310F85 /* ImagesBootcamp.swift in Sources */,
 				B247CF062A1EFCF0005230BC /* ShapesBootcamp.swift in Sources */,
 				B247CEF82A1EE770005230BC /* ContentView.swift in Sources */,
