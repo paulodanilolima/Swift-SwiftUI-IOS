@@ -19,7 +19,7 @@ struct BackGorungAndOverlayBootcamp: View {
 //                    .frame(width: 100, height: 100, alignment: .center)
 //            )
 //            .background(
-//                Circle()
+//                Circle
 //                    .fill(LinearGradient(colors: [Color.green, Color.red], startPoint: .leading, endPoint: .trailing))
 //                    .frame(width: 120, height: 120, alignment: .center)
 //            )
