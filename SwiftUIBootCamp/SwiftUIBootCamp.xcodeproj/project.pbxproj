@@ -24,6 +24,7 @@
 		B25C13D32A21B7BD00310F85 /* SpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B25C13D22A21B7BD00310F85 /* SpacerBootcamp.swift */; };
 		B25C13D52A22CDCE00310F85 /* InitializerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B25C13D42A22CDCD00310F85 /* InitializerBootcamp.swift */; };
 		B25C13D72A23066700310F85 /* ForeachBottcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B25C13D62A23066700310F85 /* ForeachBottcamp.swift */; };
+		B25C13D92A2308AB00310F85 /* ScroolviewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B25C13D82A2308AB00310F85 /* ScroolviewBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +46,7 @@
 		B25C13D22A21B7BD00310F85 /* SpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBootcamp.swift; sourceTree = "<group>"; };
 		B25C13D42A22CDCD00310F85 /* InitializerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializerBootcamp.swift; sourceTree = "<group>"; };
 		B25C13D62A23066700310F85 /* ForeachBottcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForeachBottcamp.swift; sourceTree = "<group>"; };
+		B25C13D82A2308AB00310F85 /* ScroolviewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScroolviewBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +112,7 @@
 				B25C13D22A21B7BD00310F85 /* SpacerBootcamp.swift */,
 				B25C13D42A22CDCD00310F85 /* InitializerBootcamp.swift */,
 				B25C13D62A23066700310F85 /* ForeachBottcamp.swift */,
+				B25C13D82A2308AB00310F85 /* ScroolviewBootcamp.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -189,6 +192,7 @@
 				B25C13D12A21AD9400310F85 /* PaddingAndSpacingBootcamp.swift in Sources */,
 				B25C13CB2A21339600310F85 /* FrameBootcamp.swift in Sources */,
 				B25C13C92A206DC500310F85 /* ImagesBootcamp.swift in Sources */,
+				B25C13D92A2308AB00310F85 /* ScroolviewBootcamp.swift in Sources */,
 				B25C13D52A22CDCE00310F85 /* InitializerBootcamp.swift in Sources */,
 				B247CF062A1EFCF0005230BC /* ShapesBootcamp.swift in Sources */,
 				B247CEF82A1EE770005230BC /* ContentView.swift in Sources */,
