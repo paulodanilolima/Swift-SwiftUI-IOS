@@ -25,6 +25,7 @@
 		B25C13D52A22CDCE00310F85 /* InitializerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B25C13D42A22CDCD00310F85 /* InitializerBootcamp.swift */; };
 		B25C13D72A23066700310F85 /* ForeachBottcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B25C13D62A23066700310F85 /* ForeachBottcamp.swift */; };
 		B25C13D92A2308AB00310F85 /* ScroolviewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B25C13D82A2308AB00310F85 /* ScroolviewBootcamp.swift */; };
+		B25C13DB2A23EFF600310F85 /* GridBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B25C13DA2A23EFF600310F85 /* GridBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -47,6 +48,7 @@
 		B25C13D42A22CDCD00310F85 /* InitializerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializerBootcamp.swift; sourceTree = "<group>"; };
 		B25C13D62A23066700310F85 /* ForeachBottcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForeachBottcamp.swift; sourceTree = "<group>"; };
 		B25C13D82A2308AB00310F85 /* ScroolviewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScroolviewBootcamp.swift; sourceTree = "<group>"; };
+		B25C13DA2A23EFF600310F85 /* GridBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +115,7 @@
 				B25C13D42A22CDCD00310F85 /* InitializerBootcamp.swift */,
 				B25C13D62A23066700310F85 /* ForeachBottcamp.swift */,
 				B25C13D82A2308AB00310F85 /* ScroolviewBootcamp.swift */,
+				B25C13DA2A23EFF600310F85 /* GridBootcamp.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -201,6 +204,7 @@
 				B25C13CF2A21A7B900310F85 /* StacksBootcamp.swift in Sources */,
 				B25C13D32A21B7BD00310F85 /* SpacerBootcamp.swift in Sources */,
 				B25C13CD2A213A5600310F85 /* BackGorungAndOverlayBootcamp.swift in Sources */,
+				B25C13DB2A23EFF600310F85 /* GridBootcamp.swift in Sources */,
 				B247CEF62A1EE770005230BC /* SwiftUIBootCampApp.swift in Sources */,
 				B25C13D72A23066700310F85 /* ForeachBottcamp.swift in Sources */,
 			);
