@@ -11,10 +11,7 @@ import SwiftUI
 struct SwiftUIBootCampApp: App {
     var body: some Scene {
         WindowGroup {
-            HStack {
-                InitializerBootcamp( count: 55, fruit: .apple)
-                InitializerBootcamp( count: 46, fruit: .orange)
-            }
+            ForeachBottcamp()
         }
     }
 }
