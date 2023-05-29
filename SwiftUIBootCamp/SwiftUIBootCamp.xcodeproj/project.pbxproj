@@ -27,6 +27,7 @@
 		B25C13D92A2308AB00310F85 /* ScroolviewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B25C13D82A2308AB00310F85 /* ScroolviewBootcamp.swift */; };
 		B25C13DB2A23EFF600310F85 /* GridBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B25C13DA2A23EFF600310F85 /* GridBootcamp.swift */; };
 		B25C13DD2A2449D500310F85 /* SafeareaBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B25C13DC2A2449D500310F85 /* SafeareaBootcamp.swift */; };
+		B2D9E08B2A256434001A0A8F /* ButtonsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2D9E08A2A256434001A0A8F /* ButtonsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -51,6 +52,7 @@
 		B25C13D82A2308AB00310F85 /* ScroolviewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScroolviewBootcamp.swift; sourceTree = "<group>"; };
 		B25C13DA2A23EFF600310F85 /* GridBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridBootcamp.swift; sourceTree = "<group>"; };
 		B25C13DC2A2449D500310F85 /* SafeareaBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeareaBootcamp.swift; sourceTree = "<group>"; };
+		B2D9E08A2A256434001A0A8F /* ButtonsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +121,7 @@
 				B25C13D82A2308AB00310F85 /* ScroolviewBootcamp.swift */,
 				B25C13DA2A23EFF600310F85 /* GridBootcamp.swift */,
 				B25C13DC2A2449D500310F85 /* SafeareaBootcamp.swift */,
+				B2D9E08A2A256434001A0A8F /* ButtonsBootcamp.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -201,6 +204,7 @@
 				B25C13D92A2308AB00310F85 /* ScroolviewBootcamp.swift in Sources */,
 				B25C13D52A22CDCE00310F85 /* InitializerBootcamp.swift in Sources */,
 				B247CF062A1EFCF0005230BC /* ShapesBootcamp.swift in Sources */,
+				B2D9E08B2A256434001A0A8F /* ButtonsBootcamp.swift in Sources */,
 				B247CEF82A1EE770005230BC /* ContentView.swift in Sources */,
 				B25C13C72A20659800310F85 /* iconsBootcamp.swift in Sources */,
 				B247CF042A1EEC90005230BC /* TextBootcamp.swift in Sources */,
