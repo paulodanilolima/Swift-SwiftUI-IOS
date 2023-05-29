@@ -26,6 +26,7 @@
 		B25C13D72A23066700310F85 /* ForeachBottcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B25C13D62A23066700310F85 /* ForeachBottcamp.swift */; };
 		B25C13D92A2308AB00310F85 /* ScroolviewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B25C13D82A2308AB00310F85 /* ScroolviewBootcamp.swift */; };
 		B25C13DB2A23EFF600310F85 /* GridBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B25C13DA2A23EFF600310F85 /* GridBootcamp.swift */; };
+		B25C13DD2A2449D500310F85 /* SafeareaBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B25C13DC2A2449D500310F85 /* SafeareaBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -49,6 +50,7 @@
 		B25C13D62A23066700310F85 /* ForeachBottcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForeachBottcamp.swift; sourceTree = "<group>"; };
 		B25C13D82A2308AB00310F85 /* ScroolviewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScroolviewBootcamp.swift; sourceTree = "<group>"; };
 		B25C13DA2A23EFF600310F85 /* GridBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridBootcamp.swift; sourceTree = "<group>"; };
+		B25C13DC2A2449D500310F85 /* SafeareaBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeareaBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +118,7 @@
 				B25C13D62A23066700310F85 /* ForeachBottcamp.swift */,
 				B25C13D82A2308AB00310F85 /* ScroolviewBootcamp.swift */,
 				B25C13DA2A23EFF600310F85 /* GridBootcamp.swift */,
+				B25C13DC2A2449D500310F85 /* SafeareaBootcamp.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -202,6 +205,7 @@
 				B25C13C72A20659800310F85 /* iconsBootcamp.swift in Sources */,
 				B247CF042A1EEC90005230BC /* TextBootcamp.swift in Sources */,
 				B25C13CF2A21A7B900310F85 /* StacksBootcamp.swift in Sources */,
+				B25C13DD2A2449D500310F85 /* SafeareaBootcamp.swift in Sources */,
 				B25C13D32A21B7BD00310F85 /* SpacerBootcamp.swift in Sources */,
 				B25C13CD2A213A5600310F85 /* BackGorungAndOverlayBootcamp.swift in Sources */,
 				B25C13DB2A23EFF600310F85 /* GridBootcamp.swift in Sources */,
