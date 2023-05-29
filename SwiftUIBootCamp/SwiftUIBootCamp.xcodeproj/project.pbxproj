@@ -28,6 +28,7 @@
 		B25C13DB2A23EFF600310F85 /* GridBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B25C13DA2A23EFF600310F85 /* GridBootcamp.swift */; };
 		B25C13DD2A2449D500310F85 /* SafeareaBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B25C13DC2A2449D500310F85 /* SafeareaBootcamp.swift */; };
 		B2D9E08B2A256434001A0A8F /* ButtonsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2D9E08A2A256434001A0A8F /* ButtonsBootcamp.swift */; };
+		B2D9E08D2A256D0D001A0A8F /* StateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2D9E08C2A256D0D001A0A8F /* StateBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -53,6 +54,7 @@
 		B25C13DA2A23EFF600310F85 /* GridBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridBootcamp.swift; sourceTree = "<group>"; };
 		B25C13DC2A2449D500310F85 /* SafeareaBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeareaBootcamp.swift; sourceTree = "<group>"; };
 		B2D9E08A2A256434001A0A8F /* ButtonsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsBootcamp.swift; sourceTree = "<group>"; };
+		B2D9E08C2A256D0D001A0A8F /* StateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +124,7 @@
 				B25C13DA2A23EFF600310F85 /* GridBootcamp.swift */,
 				B25C13DC2A2449D500310F85 /* SafeareaBootcamp.swift */,
 				B2D9E08A2A256434001A0A8F /* ButtonsBootcamp.swift */,
+				B2D9E08C2A256D0D001A0A8F /* StateBootcamp.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -196,6 +199,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B2D9E08D2A256D0D001A0A8F /* StateBootcamp.swift in Sources */,
 				B25C13C52A205BC300310F85 /* GradientsBootcamp.swift in Sources */,
 				B247CF092A1F1118005230BC /* ColorsBootcamp.swift in Sources */,
 				B25C13D12A21AD9400310F85 /* PaddingAndSpacingBootcamp.swift in Sources */,
