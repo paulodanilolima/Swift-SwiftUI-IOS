@@ -30,6 +30,7 @@
 		B2D9E08B2A256434001A0A8F /* ButtonsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2D9E08A2A256434001A0A8F /* ButtonsBootcamp.swift */; };
 		B2D9E08D2A256D0D001A0A8F /* StateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2D9E08C2A256D0D001A0A8F /* StateBootcamp.swift */; };
 		B2D9E08F2A26BAAB001A0A8F /* ExtractFunctionsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2D9E08E2A26BAAB001A0A8F /* ExtractFunctionsBootcamp.swift */; };
+		B2D9E0912A26C2EE001A0A8F /* ExtrectSubViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2D9E0902A26C2EE001A0A8F /* ExtrectSubViewBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -57,6 +58,7 @@
 		B2D9E08A2A256434001A0A8F /* ButtonsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsBootcamp.swift; sourceTree = "<group>"; };
 		B2D9E08C2A256D0D001A0A8F /* StateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBootcamp.swift; sourceTree = "<group>"; };
 		B2D9E08E2A26BAAB001A0A8F /* ExtractFunctionsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractFunctionsBootcamp.swift; sourceTree = "<group>"; };
+		B2D9E0902A26C2EE001A0A8F /* ExtrectSubViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtrectSubViewBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -128,6 +130,7 @@
 				B2D9E08A2A256434001A0A8F /* ButtonsBootcamp.swift */,
 				B2D9E08C2A256D0D001A0A8F /* StateBootcamp.swift */,
 				B2D9E08E2A26BAAB001A0A8F /* ExtractFunctionsBootcamp.swift */,
+				B2D9E0902A26C2EE001A0A8F /* ExtrectSubViewBootcamp.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -210,6 +213,7 @@
 				B25C13C92A206DC500310F85 /* ImagesBootcamp.swift in Sources */,
 				B25C13D92A2308AB00310F85 /* ScroolviewBootcamp.swift in Sources */,
 				B25C13D52A22CDCE00310F85 /* InitializerBootcamp.swift in Sources */,
+				B2D9E0912A26C2EE001A0A8F /* ExtrectSubViewBootcamp.swift in Sources */,
 				B247CF062A1EFCF0005230BC /* ShapesBootcamp.swift in Sources */,
 				B2D9E08F2A26BAAB001A0A8F /* ExtractFunctionsBootcamp.swift in Sources */,
 				B2D9E08B2A256434001A0A8F /* ButtonsBootcamp.swift in Sources */,
