@@ -35,6 +35,7 @@
 		B2D9E0952A26E822001A0A8F /* ConditionalBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2D9E0942A26E822001A0A8F /* ConditionalBootcamp.swift */; };
 		B2D9E0972A26EB6C001A0A8F /* TernaryBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2D9E0962A26EB6C001A0A8F /* TernaryBootcamp.swift */; };
 		B2D9E0992A283672001A0A8F /* AnimationsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2D9E0982A283672001A0A8F /* AnimationsBootcamp.swift */; };
+		B2D9E09B2A284203001A0A8F /* AnimationCurvesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2D9E09A2A284203001A0A8F /* AnimationCurvesBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -67,6 +68,7 @@
 		B2D9E0942A26E822001A0A8F /* ConditionalBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalBootcamp.swift; sourceTree = "<group>"; };
 		B2D9E0962A26EB6C001A0A8F /* TernaryBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TernaryBootcamp.swift; sourceTree = "<group>"; };
 		B2D9E0982A283672001A0A8F /* AnimationsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationsBootcamp.swift; sourceTree = "<group>"; };
+		B2D9E09A2A284203001A0A8F /* AnimationCurvesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationCurvesBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -143,6 +145,7 @@
 				B2D9E0942A26E822001A0A8F /* ConditionalBootcamp.swift */,
 				B2D9E0962A26EB6C001A0A8F /* TernaryBootcamp.swift */,
 				B2D9E0982A283672001A0A8F /* AnimationsBootcamp.swift */,
+				B2D9E09A2A284203001A0A8F /* AnimationCurvesBootcamp.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -226,6 +229,7 @@
 				B25C13D92A2308AB00310F85 /* ScroolviewBootcamp.swift in Sources */,
 				B25C13D52A22CDCE00310F85 /* InitializerBootcamp.swift in Sources */,
 				B2D9E0912A26C2EE001A0A8F /* ExtrectSubViewBootcamp.swift in Sources */,
+				B2D9E09B2A284203001A0A8F /* AnimationCurvesBootcamp.swift in Sources */,
 				B247CF062A1EFCF0005230BC /* ShapesBootcamp.swift in Sources */,
 				B2D9E0972A26EB6C001A0A8F /* TernaryBootcamp.swift in Sources */,
 				B2D9E08F2A26BAAB001A0A8F /* ExtractFunctionsBootcamp.swift in Sources */,
