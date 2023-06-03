@@ -12,6 +12,9 @@ struct ForeachBottcamp: View {
     let data: [String] = ["Hi", "Hello", "Hey everyone"]
     
     var body: some View {
+        VStack {
+            
+        }
 //        VStack {
 //            ForEach(0..<10) { index in
 //                HStack {
@@ -22,11 +25,11 @@ struct ForeachBottcamp: View {
 //                }
 //            }
 //        }
-        VStack {
-            ForEach(data.indices) { index in
-                Text("\(data[index]): \(index)")
-            }
-        }
+//        VStack {
+//            ForEach(data.indices) { index in
+//                Text("\(data[index]): \(index)")
+//            }
+//        }
     }
 }
 

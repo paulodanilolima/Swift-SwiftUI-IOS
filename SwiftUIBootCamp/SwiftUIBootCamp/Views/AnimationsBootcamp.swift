@@ -23,9 +23,9 @@ struct AnimationsBootcamp: View {
                        height: isAnimated ? 100 : 300)
                 .rotationEffect(Angle(degrees: isAnimated ? 360 : 0 ))
                 .offset(y: isAnimated ? 300 : 0)
-                .animation(Animation
-                    .default
-                    .repeatForever(autoreverses: true))
+//                .animation(Animation
+//                    .default
+//                    .repeatForever(autoreverses: true))
                        
             Spacer()
         }

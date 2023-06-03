@@ -28,7 +28,7 @@ struct TransitionsBootcamp: View {
 //                    .transition(AnyTransition.opacity.animation(.easeInOut))
                     .transition(.asymmetric(insertion: .move(edge: .leading),
                                             removal: .move(edge: .bottom)))
-                    .animation(.easeInOut)
+//                    .animation(.easeInOut)
                     .padding()
             }
         }

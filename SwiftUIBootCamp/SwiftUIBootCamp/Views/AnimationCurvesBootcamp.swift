@@ -40,7 +40,7 @@ struct AnimationCurvesBootcamp: View {
             RoundedRectangle(cornerRadius: 20.0)
                 .frame(width:isAnimating ? 350 : 50,
                        height: 100)
-                .animation(.spring(response: 0.5, dampingFraction: 0.5, blendDuration: 1.0))
+//                .animation(.spring(response: 0.5, dampingFraction: 0.5, blendDuration: 1.0))
         }
     }
 }

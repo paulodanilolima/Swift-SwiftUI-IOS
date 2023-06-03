@@ -37,6 +37,7 @@
 		B2D9E0992A283672001A0A8F /* AnimationsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2D9E0982A283672001A0A8F /* AnimationsBootcamp.swift */; };
 		B2D9E09B2A284203001A0A8F /* AnimationCurvesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2D9E09A2A284203001A0A8F /* AnimationCurvesBootcamp.swift */; };
 		B2D9E09D2A298411001A0A8F /* TransitionsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2D9E09C2A298411001A0A8F /* TransitionsBootcamp.swift */; };
+		B2D9E09F2A2ADD02001A0A8F /* SheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2D9E09E2A2ADD02001A0A8F /* SheetsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -71,6 +72,7 @@
 		B2D9E0982A283672001A0A8F /* AnimationsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationsBootcamp.swift; sourceTree = "<group>"; };
 		B2D9E09A2A284203001A0A8F /* AnimationCurvesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationCurvesBootcamp.swift; sourceTree = "<group>"; };
 		B2D9E09C2A298411001A0A8F /* TransitionsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionsBootcamp.swift; sourceTree = "<group>"; };
+		B2D9E09E2A2ADD02001A0A8F /* SheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -149,6 +151,7 @@
 				B2D9E0982A283672001A0A8F /* AnimationsBootcamp.swift */,
 				B2D9E09A2A284203001A0A8F /* AnimationCurvesBootcamp.swift */,
 				B2D9E09C2A298411001A0A8F /* TransitionsBootcamp.swift */,
+				B2D9E09E2A2ADD02001A0A8F /* SheetsBootcamp.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -223,6 +226,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B2D9E09F2A2ADD02001A0A8F /* SheetsBootcamp.swift in Sources */,
 				B2D9E08D2A256D0D001A0A8F /* StateBootcamp.swift in Sources */,
 				B25C13C52A205BC300310F85 /* GradientsBootcamp.swift in Sources */,
 				B247CF092A1F1118005230BC /* ColorsBootcamp.swift in Sources */,
