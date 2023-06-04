@@ -39,6 +39,7 @@
 		B2D9E09D2A298411001A0A8F /* TransitionsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2D9E09C2A298411001A0A8F /* TransitionsBootcamp.swift */; };
 		B2D9E09F2A2ADD02001A0A8F /* SheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2D9E09E2A2ADD02001A0A8F /* SheetsBootcamp.swift */; };
 		B2D9E0A12A2BCB1F001A0A8F /* PopOverBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2D9E0A02A2BCB1F001A0A8F /* PopOverBootcamp.swift */; };
+		B2D9E0A32A2C3CE1001A0A8F /* NavigationViewBottcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2D9E0A22A2C3CE1001A0A8F /* NavigationViewBottcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -75,6 +76,7 @@
 		B2D9E09C2A298411001A0A8F /* TransitionsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionsBootcamp.swift; sourceTree = "<group>"; };
 		B2D9E09E2A2ADD02001A0A8F /* SheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsBootcamp.swift; sourceTree = "<group>"; };
 		B2D9E0A02A2BCB1F001A0A8F /* PopOverBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopOverBootcamp.swift; sourceTree = "<group>"; };
+		B2D9E0A22A2C3CE1001A0A8F /* NavigationViewBottcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewBottcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -155,6 +157,7 @@
 				B2D9E09C2A298411001A0A8F /* TransitionsBootcamp.swift */,
 				B2D9E09E2A2ADD02001A0A8F /* SheetsBootcamp.swift */,
 				B2D9E0A02A2BCB1F001A0A8F /* PopOverBootcamp.swift */,
+				B2D9E0A22A2C3CE1001A0A8F /* NavigationViewBottcamp.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -255,6 +258,7 @@
 				B25C13D32A21B7BD00310F85 /* SpacerBootcamp.swift in Sources */,
 				B2D9E0932A26C557001A0A8F /* BindingBootcamp.swift in Sources */,
 				B25C13CD2A213A5600310F85 /* BackGorungAndOverlayBootcamp.swift in Sources */,
+				B2D9E0A32A2C3CE1001A0A8F /* NavigationViewBottcamp.swift in Sources */,
 				B25C13DB2A23EFF600310F85 /* GridBootcamp.swift in Sources */,
 				B2D9E0952A26E822001A0A8F /* ConditionalBootcamp.swift in Sources */,
 				B247CEF62A1EE770005230BC /* SwiftUIBootCampApp.swift in Sources */,
