@@ -40,6 +40,7 @@
 		B2D9E09F2A2ADD02001A0A8F /* SheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2D9E09E2A2ADD02001A0A8F /* SheetsBootcamp.swift */; };
 		B2D9E0A12A2BCB1F001A0A8F /* PopOverBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2D9E0A02A2BCB1F001A0A8F /* PopOverBootcamp.swift */; };
 		B2D9E0A32A2C3CE1001A0A8F /* NavigationViewBottcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2D9E0A22A2C3CE1001A0A8F /* NavigationViewBottcamp.swift */; };
+		B2D9E0A52A2CDB9B001A0A8F /* ListBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2D9E0A42A2CDB9B001A0A8F /* ListBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -77,6 +78,7 @@
 		B2D9E09E2A2ADD02001A0A8F /* SheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsBootcamp.swift; sourceTree = "<group>"; };
 		B2D9E0A02A2BCB1F001A0A8F /* PopOverBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopOverBootcamp.swift; sourceTree = "<group>"; };
 		B2D9E0A22A2C3CE1001A0A8F /* NavigationViewBottcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewBottcamp.swift; sourceTree = "<group>"; };
+		B2D9E0A42A2CDB9B001A0A8F /* ListBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -158,6 +160,7 @@
 				B2D9E09E2A2ADD02001A0A8F /* SheetsBootcamp.swift */,
 				B2D9E0A02A2BCB1F001A0A8F /* PopOverBootcamp.swift */,
 				B2D9E0A22A2C3CE1001A0A8F /* NavigationViewBottcamp.swift */,
+				B2D9E0A42A2CDB9B001A0A8F /* ListBootcamp.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				B25C13DB2A23EFF600310F85 /* GridBootcamp.swift in Sources */,
 				B2D9E0952A26E822001A0A8F /* ConditionalBootcamp.swift in Sources */,
 				B247CEF62A1EE770005230BC /* SwiftUIBootCampApp.swift in Sources */,
+				B2D9E0A52A2CDB9B001A0A8F /* ListBootcamp.swift in Sources */,
 				B25C13D72A23066700310F85 /* ForeachBottcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
