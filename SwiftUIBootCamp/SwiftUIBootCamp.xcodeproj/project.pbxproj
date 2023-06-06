@@ -42,6 +42,7 @@
 		B2D9E0A32A2C3CE1001A0A8F /* NavigationViewBottcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2D9E0A22A2C3CE1001A0A8F /* NavigationViewBottcamp.swift */; };
 		B2D9E0A52A2CDB9B001A0A8F /* ListBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2D9E0A42A2CDB9B001A0A8F /* ListBootcamp.swift */; };
 		B2D9E0A72A2D89DE001A0A8F /* AlertBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2D9E0A62A2D89DE001A0A8F /* AlertBootcamp.swift */; };
+		B2D9E0A92A2ED9CD001A0A8F /* ActionSheetBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2D9E0A82A2ED9CD001A0A8F /* ActionSheetBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -81,6 +82,7 @@
 		B2D9E0A22A2C3CE1001A0A8F /* NavigationViewBottcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewBottcamp.swift; sourceTree = "<group>"; };
 		B2D9E0A42A2CDB9B001A0A8F /* ListBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListBootcamp.swift; sourceTree = "<group>"; };
 		B2D9E0A62A2D89DE001A0A8F /* AlertBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertBootcamp.swift; sourceTree = "<group>"; };
+		B2D9E0A82A2ED9CD001A0A8F /* ActionSheetBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -164,6 +166,7 @@
 				B2D9E0A22A2C3CE1001A0A8F /* NavigationViewBottcamp.swift */,
 				B2D9E0A42A2CDB9B001A0A8F /* ListBootcamp.swift */,
 				B2D9E0A62A2D89DE001A0A8F /* AlertBootcamp.swift */,
+				B2D9E0A82A2ED9CD001A0A8F /* ActionSheetBootcamp.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				B25C13CF2A21A7B900310F85 /* StacksBootcamp.swift in Sources */,
 				B2D9E0992A283672001A0A8F /* AnimationsBootcamp.swift in Sources */,
 				B25C13DD2A2449D500310F85 /* SafeareaBootcamp.swift in Sources */,
+				B2D9E0A92A2ED9CD001A0A8F /* ActionSheetBootcamp.swift in Sources */,
 				B25C13D32A21B7BD00310F85 /* SpacerBootcamp.swift in Sources */,
 				B2D9E0932A26C557001A0A8F /* BindingBootcamp.swift in Sources */,
 				B25C13CD2A213A5600310F85 /* BackGorungAndOverlayBootcamp.swift in Sources */,
