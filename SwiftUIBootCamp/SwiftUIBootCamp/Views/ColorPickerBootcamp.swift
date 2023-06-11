@@ -19,6 +19,7 @@ struct ColorPickerBootcamp: View {
                         selection: $backgroundColor,
             supportsOpacity: true)
             .padding()
+            .padding(20)
             .background(Color.black)
             .cornerRadius(10)
             .foregroundColor(.white)
