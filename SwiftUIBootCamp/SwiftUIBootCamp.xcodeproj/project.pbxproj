@@ -45,6 +45,8 @@
 		B2AA34162A37F98300F65BA6 /* DatepickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2AA34152A37F98300F65BA6 /* DatepickerBootcamp.swift */; };
 		B2AA34182A3A79CA00F65BA6 /* SteeperBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2AA34172A3A79C900F65BA6 /* SteeperBootcamp.swift */; };
 		B2AA341A2A3A7DDA00F65BA6 /* SliderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2AA34192A3A7DDA00F65BA6 /* SliderBootcamp.swift */; };
+		B2D564662A51FD85000EF8CC /* IntroView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2D564652A51FD85000EF8CC /* IntroView.swift */; };
+		B2D564682A51FE7C000EF8CC /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2D564672A51FE7C000EF8CC /* OnboardingView.swift */; };
 		B2D9E08B2A256434001A0A8F /* ButtonsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2D9E08A2A256434001A0A8F /* ButtonsBootcamp.swift */; };
 		B2D9E08D2A256D0D001A0A8F /* StateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2D9E08C2A256D0D001A0A8F /* StateBootcamp.swift */; };
 		B2D9E08F2A26BAAB001A0A8F /* ExtractFunctionsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2D9E08E2A26BAAB001A0A8F /* ExtractFunctionsBootcamp.swift */; };
@@ -104,6 +106,8 @@
 		B2AA34152A37F98300F65BA6 /* DatepickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatepickerBootcamp.swift; sourceTree = "<group>"; };
 		B2AA34172A3A79C900F65BA6 /* SteeperBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SteeperBootcamp.swift; sourceTree = "<group>"; };
 		B2AA34192A3A7DDA00F65BA6 /* SliderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderBootcamp.swift; sourceTree = "<group>"; };
+		B2D564652A51FD85000EF8CC /* IntroView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroView.swift; sourceTree = "<group>"; };
+		B2D564672A51FE7C000EF8CC /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		B2D9E08A2A256434001A0A8F /* ButtonsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsBootcamp.swift; sourceTree = "<group>"; };
 		B2D9E08C2A256D0D001A0A8F /* StateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBootcamp.swift; sourceTree = "<group>"; };
 		B2D9E08E2A26BAAB001A0A8F /* ExtractFunctionsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractFunctionsBootcamp.swift; sourceTree = "<group>"; };
@@ -172,6 +176,7 @@
 		B247CF072A1EFD07005230BC /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				B2D564642A51FD6D000EF8CC /* OnboardingViews */,
 				B247CEF72A1EE770005230BC /* ContentView.swift */,
 				B247CF032A1EEC8F005230BC /* TextBootcamp.swift */,
 				B247CF052A1EFCF0005230BC /* ShapesBootcamp.swift */,
@@ -226,6 +231,15 @@
 				B25F8C942A4BE33400598046 /* AppStorageBottcamp.swift */,
 			);
 			path = Views;
+			sourceTree = "<group>";
+		};
+		B2D564642A51FD6D000EF8CC /* OnboardingViews */ = {
+			isa = PBXGroup;
+			children = (
+				B2D564652A51FD85000EF8CC /* IntroView.swift */,
+				B2D564672A51FE7C000EF8CC /* OnboardingView.swift */,
+			);
+			path = OnboardingViews;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -321,6 +335,7 @@
 				B2D9E0972A26EB6C001A0A8F /* TernaryBootcamp.swift in Sources */,
 				B2D9E08F2A26BAAB001A0A8F /* ExtractFunctionsBootcamp.swift in Sources */,
 				B21A0A2A2A342203002C565C /* PickerBootcamp.swift in Sources */,
+				B2D564662A51FD85000EF8CC /* IntroView.swift in Sources */,
 				B2D9E08B2A256434001A0A8F /* ButtonsBootcamp.swift in Sources */,
 				B247CEF82A1EE770005230BC /* ContentView.swift in Sources */,
 				B25C13C72A20659800310F85 /* iconsBootcamp.swift in Sources */,
@@ -346,6 +361,7 @@
 				B25C13DB2A23EFF600310F85 /* GridBootcamp.swift in Sources */,
 				B2D9E0952A26E822001A0A8F /* ConditionalBootcamp.swift in Sources */,
 				B247CEF62A1EE770005230BC /* SwiftUIBootCampApp.swift in Sources */,
+				B2D564682A51FE7C000EF8CC /* OnboardingView.swift in Sources */,
 				B25F8C932A4A8BFA00598046 /* EnvironmentObjectBootcamp.swift in Sources */,
 				B2AA34182A3A79CA00F65BA6 /* SteeperBootcamp.swift in Sources */,
 				B2D9E0A52A2CDB9B001A0A8F /* ListBootcamp.swift in Sources */,
