@@ -76,9 +76,9 @@ struct PickerBootcamp: View {
         Picker(
             selection: $selection,
             content: {
-            ForEach(filterOptions.indices) { index in
-                Text(filterOptions[index]).tag(filterOptions[index])
-            }
+//            ForEach(filterOptions.indices) { index in
+//                Text(filterOptions[index]).tag(filterOptions[index])
+//            }
             
         }) {
             Text("Picker")
