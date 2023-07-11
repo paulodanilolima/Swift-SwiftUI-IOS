@@ -14,6 +14,7 @@
 		B21A0A2C2A342DB0002C565C /* ColorPickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B21A0A2B2A342DB0002C565C /* ColorPickerBootcamp.swift */; };
 		B233DBA02A3BE1190060F67F /* TabViewsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B233DB9F2A3BE1190060F67F /* TabViewsBootcamp.swift */; };
 		B233DBA22A3E83430060F67F /* DarkModeBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B233DBA12A3E83430060F67F /* DarkModeBootcamp.swift */; };
+		B23444B72A5CF0AC004F1DC7 /* TollbarBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B23444B62A5CF0AC004F1DC7 /* TollbarBootcamp.swift */; };
 		B247CEF62A1EE770005230BC /* SwiftUIBootCampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B247CEF52A1EE770005230BC /* SwiftUIBootCampApp.swift */; };
 		B247CEF82A1EE770005230BC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B247CEF72A1EE770005230BC /* ContentView.swift */; };
 		B247CEFA2A1EE774005230BC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B247CEF92A1EE774005230BC /* Assets.xcassets */; };
@@ -84,6 +85,7 @@
 		B21A0A2B2A342DB0002C565C /* ColorPickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerBootcamp.swift; sourceTree = "<group>"; };
 		B233DB9F2A3BE1190060F67F /* TabViewsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewsBootcamp.swift; sourceTree = "<group>"; };
 		B233DBA12A3E83430060F67F /* DarkModeBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModeBootcamp.swift; sourceTree = "<group>"; };
+		B23444B62A5CF0AC004F1DC7 /* TollbarBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TollbarBootcamp.swift; sourceTree = "<group>"; };
 		B247CEF22A1EE770005230BC /* SwiftUIBootCamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIBootCamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B247CEF52A1EE770005230BC /* SwiftUIBootCampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIBootCampApp.swift; sourceTree = "<group>"; };
 		B247CEF72A1EE770005230BC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -253,6 +255,7 @@
 				B2D5646B2A53ADAA000EF8CC /* AsyncImageBootcamp.swift */,
 				B2D5646D2A53C70B000EF8CC /* BackgroundMaterialsBootcamp.swift */,
 				B2D5646F2A53C827000EF8CC /* TextSelectionBootcamp.swift */,
+				B23444B62A5CF0AC004F1DC7 /* TollbarBootcamp.swift */,
 				B2D564712A5647E4000EF8CC /* ButtonsStuleBootcamp.swift */,
 				B2D564732A564AC4000EF8CC /* ListSwipeActionsBootcamp.swift */,
 				B2D564772A57B010000EF8CC /* FocusStateBootcamp.swift */,
@@ -401,6 +404,7 @@
 				B2D9E0952A26E822001A0A8F /* ConditionalBootcamp.swift in Sources */,
 				B247CEF62A1EE770005230BC /* SwiftUIBootCampApp.swift in Sources */,
 				B2D564682A51FE7C000EF8CC /* OnboardingView.swift in Sources */,
+				B23444B72A5CF0AC004F1DC7 /* TollbarBootcamp.swift in Sources */,
 				B25F8C932A4A8BFA00598046 /* EnvironmentObjectBootcamp.swift in Sources */,
 				B2AA34182A3A79CA00F65BA6 /* SteeperBootcamp.swift in Sources */,
 				B2D9E0A52A2CDB9B001A0A8F /* ListBootcamp.swift in Sources */,
